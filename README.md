@@ -14,6 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+The Unofficial Guide centralizes raw student feedback, experiences, and workload expectations for Computer Science professors and courses at CUNY Queens College. While official university catalogs and websites give you basic course descriptions and instructor names, they completely miss out critical information, including exam difficulty, teaching quality, and student feedback. By making this data easily searchable, students will have access to knowledge that is difficult to find through official CUNY channels, which can help them better strategically pick their courses and professors.
 ---
 
 ## Document Sources

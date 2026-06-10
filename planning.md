@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The Unofficial Guide centralizes raw student feedback, experiences, and workload expectations for Computer Science professors and courses at CUNY Queens College. While official university catalogs and websites give students basic course descriptions and instructor names, they completely miss out on critical information, including exam difficulty, teaching quality, and student feedback. By making this data easily searchable, students will have access to knowledge that is difficult to find through official CUNY channels, which can help them better strategically pick their courses and professors.
+
 ---
 
 ## Documents
