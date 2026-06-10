@@ -1,0 +1,124 @@
+Professor Name: Gaurish Telang
+Would take again: 44%
+Level of Difficulty: 4.1/5.0
+Overall Rating: 2.7/5.0
+
+Quality: 4.0/5.0
+Difficulty: 4.0/5.0
+Course: CSCI343
+Date: Mar 9th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Review: Hard class + exam heavy but he is open to help students and answer questions during lectures. Uploads all lecture notes from day 1. Lenient in grading exams especially for questions that require you to explain concepts. The best option for 343 hands down.
+Tags: Clear grading criteria, Graded by few things
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CSCI343
+Date: Jan 25th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+Review: Great professor! I took his 240 and 343, and I did not regret it at all! Go to his office hours, communicate with him, and he will explain anything you don't understand! Sometimes he gives extra credits, but he is really flexible with quizzes and exams!
+Tags: EXTRA CREDIT, Amazing lectures, Caring
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CSCI331
+Date: Jan 2nd, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Took him for 331 and 343. He has significantly refined his teaching style over the years and in my opinion is the best CS professor at QC. His lectures are very engaging due to his hilarious personality and slides that you can tell he puts a lot of effort into making. Invest now before the stock gets too hot.
+Tags: Amazing lectures, Hilarious, Caring
+
+Quality: 3.0/5.0
+Difficulty: 1.0/5.0
+Course: CSCI344
+Date: Dec 29th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+Review: The course is easy to pass, grades based on quizzes, homework, a midterm, and a final. Good for credits, not for effectiveness. Won't learn much. Probably choose another elective or with another prof.
+Tags: Caring, Graded by few things, Accessible outside class
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CSCI240
+Date: Aug 28th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: I took his CSCI 240 class in spring 2025. His lectures were interesting and very helpful. If you attend classes regularly, you won't regret taking his class.
+Tags: Amazing lectures, Gives good feedback, Accessible outside class
+
+Quality: 5.0/5.0
+Difficulty: 2.0/5.0
+Course: CSCI343
+Date: Jun 2nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: First review ever: Excellent for 343! Clear grading (quizzes, midterm, final). Exams are lecture-based; quizzes prep you well. Review sheet covers 95%+ if mastered. He cares, curves, and holds review sessions. Active in clarifying doubts (videos/posts). Enjoyed his class—easy & engaging. Taking his DB/distributed computing next!
+Tags: Clear grading criteria, Caring, Accessible outside class
+
+Quality: 3.0/5.0
+Difficulty: 3.0/5.0
+Course: CSCI343
+Date: May 31st, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: C+
+Textbook: N/A
+Review: 30% Quiz 30% Midterm 40% Final Lectures are off his slides normally, fair and not bad to pass.
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+Quality: 5.0/5.0
+Difficulty: 4.0/5.0
+Course: CSCI240
+Date: May 23rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: I usually don't rate any professors but I don't know why, Gaurish has lower rating. He is a great lecturer, caring and he gives extra credits so you can boost your grades up. Yes, he can be better but comparing to other professor I had so far in QC he is a hidden gem.
+Tags: EXTRA CREDIT, Amazing lectures, Caring
+
+Quality: 4.0/5.0
+Difficulty: 4.0/5.0
+Course: CSCI343
+Date: Apr 22nd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review: Great lecturer! He made sure that everyone was able to follow along and understand the new concepts he taught during class. Lots of quizzes but they weren't too hard. The midterm and final were very lengthy but very doable if you study and attend every lecture.
+Tags: Amazing lectures, Test heavy
+
+Quality: 1.0/5.0
+Difficulty: 5.0/5.0
+Course: CSCI343
+Date: Apr 10th, 2025
+For Credit: Not specified
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade: Rather not say
+Textbook: N/A
+Review: Worst professor I've ever had. Lectures are unclear he jams everything into one slide that is impossible to decipher if you miss a class. Demeaning when students ask questions, often replying with "you should know this," making you feel uncomfortable seeking help. Difficult to self-study due to extreme disorganization. Avoid if possible!!!!
+Tags: Tough grader, Lecture heavy, Test heavy

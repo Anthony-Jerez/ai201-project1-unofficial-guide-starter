@@ -25,17 +25,17 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
 | # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| --- | --- | --- | --- |
+| 1 | RateMyProfessor | Condensed Review Data | documents/akinlar.txt |
+| 2 | RateMyProfessor | Condensed Review Data | documents/chyn.txt |
+| 3 | RateMyProfessor | Condensed Review Data | documents/gryak.txt |
+| 4 | RateMyProfessor | Condensed Review Data | documents/kahrobaei.txt |
+| 5 | RateMyProfessor | Condensed Review Data | documents/lord.txt |
+| 6 | RateMyProfessor | Condensed Review Data | documents/obrenic.txt |
+| 7 | RateMyProfessor | Condensed Review Data | documents/ryba.txt |
+| 8 | RateMyProfessor | Condensed Review Data | documents/steinberg.txt |
+| 9 | RateMyProfessor | Condensed Review Data | documents/telang.txt |
+| 10 | RateMyProfessor | Condensed Review Data | documents/waxman.txt |
 
 ---
 

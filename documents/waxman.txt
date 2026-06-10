@@ -1,0 +1,124 @@
+Professor Name: Jerry Waxman
+Would take again: 47%
+Level of Difficulty: 3.1/5.0
+Overall Rating: 3.4/5.0
+
+Quality: 5.0
+Difficulty: 5.0
+Course: CS381
+Date: Apr 13th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B-
+Textbook: Yes
+Review: You do not take this professor for a grade, you seek his teachings through this course to LEARN. I've long graduated, yet many of his core teachings have not left me. You are part of the best of the best Prof! Thank you for making such a cognitively difficult and overloaded course so enjoyable and memorable!
+Tags: Inspirational, Hilarious, Lecture heavy
+
+Quality: 5.0/5.0
+Difficulty: 4.0/5.0
+Course: CS211
+Date: Jun 6th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Went to ~60% of lectures, attended lab only for quizzes, went to the final 80 minutes late. Got an A. Amazing professor, fantastic lecturing ability. Content may be difficult, but most enlightening. Do projects by yourself, use ai only to teach you concepts. Attending, participating, and meditating on the concepts will get you mastery of C++.
+Tags: Not specified
+
+Quality: 4.0/5.0
+Difficulty: 4.0/5.0
+Course: CSCI211
+Date: Feb 2nd, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Review: He is a good prof. He will answer all your questions if you ask him. Some students get low grades because they don't attend his class or don't review their notebooks. You should listen carefully and take notes, it will be helpful for exams. He curves based on the class average. I recommend taking his class.
+Tags: Gives good feedback, Lecture heavy, Test heavy
+
+Quality: 4.0/5.0
+Difficulty: 2.0/5.0
+Course: CSCI211
+Date: Dec 27th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: N/A
+Review: I never went to labs so I got a B. His exams were trivial, i.e. you should have no problems if you did the work. Waxman himself is actually reasonable and nice, it's that he's seen so much BS from students over the years. Just do the work and it's an easy A+. If not, lock in because CS gets much harder than this.
+Tags: Lecture heavy, Test heavy
+
+Quality: 1.0/5.0
+Difficulty: 5.0/5.0
+Course: 211
+Date: Dec 26th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: Rather not say
+Textbook: Yes
+Review: I took his class in the fall, and the experience was very difficult. His handwriting was hard to read, and no technology was allowed. If a phone was used, he would stop the lecture to address it. I found it easier to learn the material on my own. I would not recommend this class if GPA is a concern.
+Tags: Not specified
+
+Quality: 4.0/5.0
+Difficulty: 3.0/5.0
+Course: CS211
+Date: Dec 25th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: A-
+Textbook: Yes
+Review: Waxman is a charismatic guy but his explanations can be overly complex sometimes. He gives a vague idea about what would be on his tests but they're moderately difficult since all you have to really do is remember the projects. His curves ease the stress and his tests are mainly fill in the blanks or “enter the output” questions.
+Tags: Hilarious, Lecture heavy, Test heavy
+
+Quality: 3.0/5.0
+Difficulty: 2.0/5.0
+Course: CSCI211
+Date: Jul 25th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: A+
+Textbook: Yes
+Review: Explanation aren't the best and test reviews are not useful. Lectures are sometimes a bit to follow
+Tags: Lots of homework, Test heavy
+
+Quality: 1.0/5.0
+Difficulty: 5.0/5.0
+Course: 211
+Date: Jun 3rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: Rather not say
+Textbook: Yes
+Review: Worst experience in QC, you won't learn anything besides memorizing projects. Waxman loves to gatekeep what is on the test and will make his exams as hard as possible to the point where his curves can't even save you. Learned more from 211 review sessions that weren't even from him than all his lectures combined. Please avoid him and his textbooks.
+Tags: Tough grader, Test heavy, Graded by few things
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CSCI211
+Date: May 30th, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review: Waxman gets a bad rep, but honestly 211 is more of a weed out class. At the end of each test, we were given a graph that shows how well you did and more than 60% of the class did so bad, which ends up helping you cause he gives a massive curve. Currently taking 300 level courses, and there are people who still don't know how to create Classes.
+Tags: Lecture heavy, Test heavy
+
+Quality: 2.0/5.0
+Difficulty: 3.0/5.0
+Course: CS211
+Date: May 29th, 2025
+For Credit: Not specified
+Attendance: Not Mandatory
+Would Take Again: Not specified
+Grade: Rather not say
+Textbook: Yes
+Review: was surprised we weren't allowed to use our computer or any electronics. His lectures were okay, it didn't help me, tho. You have to buy the textbook to take your notes, and his review was so-so. The exams were mostly writing, then coding. There were unexpected questions in his exams; he has a big curve, but I will not take his class again.
+Tags: Caring, Test heavy

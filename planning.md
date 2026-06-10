@@ -21,17 +21,17 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
 | # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| --- | --- | --- | --- |
+| 1 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Akinlar. Data is condensed into a structured .txt file.| documents/akinlar.txt |
+| 2 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Chyn. Data is condensed into a structured .txt file. | documents/chyn.txt |
+| 3 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Gryak. Data is condensed into a structured .txt file. | documents/gryak.txt |
+| 4 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Kahrobaei. Data is condensed into a structured .txt file. | documents/kahrobaei.txt |
+| 5 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Lord. Data is condensed into a structured .txt file. | documents/lord.txt |
+| 6 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Obrenic. Data is condensed into a structured .txt file. | documents/obrenic.txt |
+| 7 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Ryba. Data is condensed into a structured .txt file. | documents/ryba.txt |
+| 8 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Steinberg. Data is condensed into a structured .txt file. | documents/steinberg.txt |
+| 9 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Telang. Data is condensed into a structured .txt file. | documents/telang.txt |
+| 10 | RateMyProfessor | Contains raw course-specific student feedback and ratings for Professor Waxman. Data is condensed into a structured .txt file. | documents/waxman.txt |
 
 ---
 

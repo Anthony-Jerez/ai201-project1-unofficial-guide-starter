@@ -1,0 +1,124 @@
+Professor Name: Oren Steinberg
+Would take again: 53%
+Level of Difficulty: 3.7/5.0
+Overall Rating: 3.3/5.0
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CS313
+Date: Apr 21st, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Review: Solid professor tbh. Gave out quizzes at the beginning of the class (which were easy af if you put in a modicum of effort in reviewing concepts). Reading the textbook would help you out a bit too. Will teach you the concepts well, I recommend this prof
+Tags: Accessible outside class
+
+Quality: 5.0/5.0
+Difficulty: 2.0/5.0
+Course: CS313
+Date: Feb 24th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Review: I am writing about this Professor 3 years down after graduation. LOL. To whoever stuck with 313, please take 313 with him. I got B in this course after failing 2 times with other 2 professors. I later took database systems with him, and I think got A+ or A. To whoever reading this, take any of his classes if available!!! He is the best :)
+Tags: Caring, Respected, Accessible outside class
+
+Quality: 4.0/5.0
+Difficulty: 3.0/5.0
+Course: CS313
+Date: Jan 24th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: C+
+Textbook: N/A
+Review: Honestly, his teaching style is way better than most of the qc professors. Teaches in a very simple way and the daily quizzes are pretty straightforward. Got to learn a lot from this class.
+Tags: Not specified
+
+Quality: 4.0/5.0
+Difficulty: 3.0/5.0
+Course: CS211
+Date: Dec 23rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Review: No listed CS111 class for RMP, so I put it under CS211. Oren has a very straightforward & understandable grading system. Grading standard is a little rough. It can be hard to get an A+. Grading system is well thought out. Attend all quizzes/tests and its an easy pass. If you're new to CS, attend all lectures and labs. Overall, solid choice.
+Tags: Clear grading criteria, Test heavy, Graded by few things
+
+Quality: 5.0/5.0
+Difficulty: 4.0/5.0
+Course: CS211
+Date: Dec 15th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review: Professor Steinberg is amazing to say the least and truly a master at his craft ! The lectures are amazing. His class is challenging yes, but in a purposeful way. He expects results and full understanding of the material. Organized to the T and extremely knowledgeable. He also fosters a positive learning environment where questions are welcomed.
+Tags: Amazing lectures, Respected, Online Savvy
+
+Quality: 5.0/5.0
+Difficulty: 3.0/5.0
+Course: CS313
+Date: Sep 5th, 2025
+For Credit: Yes
+Attendance: Not specified
+Would Take Again: Yes
+Grade: Not specified
+Textbook: N/A
+Review: First and foremost, Prof Steinberg is a gem in QC. He is extremely knowledgeable, very nice, and patient. I took him for DS in the summer, and he was very straightforward with his grading and curves on exams. I ask alot of questions in class, and not once was he annoyed. He welcomes engagement and is dedicated to his craft. Treat him with respect!
+Tags: Amazing lectures, Inspirational, Caring
+
+Quality: 2.0/5.0
+Difficulty: 4.0/5.0
+Course: CS331
+Date: Jun 2nd, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade: C
+Textbook: Yes
+Review: He's not the worst, but if the class is “open notes,” don't fall for it. Study everything properly, the exam was nothing like the notes.
+Tags: Test heavy
+
+Quality: 5.0/5.0
+Difficulty: 2.0/5.0
+Course: CS313
+Date: May 27th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: N/A
+Review: AMAZING, TAKE HIM IF FOR 313! Quizzes given every class, and as long as you attend and review the material, it's an easy 60% of your overall grade. Spend the time and do his homework questions, variants of those are on the midterm and final. He explains the concepts very clearly in his lessons. Attend his office hours if you are shaky on a topic.
+Tags: Amazing lectures, Clear grading criteria, Accessible outside class
+
+Quality: 1.0/5.0
+Difficulty: 4.0/5.0
+Course: CS313
+Date: May 26th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not specified
+Grade: C
+Textbook: Yes
+Review: Attendance is basically mandatory with daily quizzes, if you're not paying attention you'll not do well. Also his teaching style has changed so a lot of these reviews don't know what they're talking about. Only people who get As gas him up because these people alrdy know the material. Everyone else just suffers.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+Quality: 5.0/5.0
+Difficulty: 4.0/5.0
+Course: CSCI313
+Date: May 24th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Review: Prof Steinberg makes DSA easy to understand and keeps us engaged with clear examples. Most (60%) of the grade will come from the daily quizzes, which are always covered in the previous two classes. While the exams were way harder than the quizzes, you can still do well as long as you understand the core concepts. Great teacher.
+Tags: Clear grading criteria, Lecture heavy, Test heavy
