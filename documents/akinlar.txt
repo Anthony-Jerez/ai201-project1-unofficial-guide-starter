@@ -3,6 +3,8 @@ Would take again: 98%
 Level of Difficulty: 2.9/5.0
 Overall Rating: 4.9/5.0
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 1.0/5.0
 Course: CSCI111
@@ -14,6 +16,8 @@ Grade: B+
 Textbook: N/A
 Review: Akinlar is amazing, he sets you up for success and provides you everything you need for the class. If you're already good at coding, you'd pass with a breeze. If you're a complete newbie like me, his lectures help a lot.
 Tags: Clear grading criteria, Hilarious, Lecture heavy
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 4.0/5.0
@@ -27,6 +31,8 @@ Textbook: N/A
 Review: Yet the best and cool prof at QC. So much love for him.
 Tags: Amazing lectures
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: CSCI331
@@ -38,6 +44,8 @@ Grade: C
 Textbook: N/A
 Review: I didn't do well on the first exam and was 100% my fault, After studying a lot harder with the material he gave and also going to him for help, was able to completely turn things around.
 Tags: Amazing lectures, Clear grading criteria, Caring
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
@@ -51,6 +59,8 @@ Textbook: N/A
 Review: Despite it being his first time teaching this course at Queens College, he went above and beyond to keep the material current and industry-relevant. He clearly wants his students to succeed and is a rare, genuinely talented educator in the CS department. The class had one project and three exams, with practice problems provided weeks in advance.
 Tags: Amazing lectures, Inspirational, Accessible outside class
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI111
@@ -62,6 +72,8 @@ Grade: A+
 Textbook: N/A
 Review: Put the effort into it, and you'll do well.
 Tags: Gives good feedback, Caring, Respected
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 1.0/5.0
@@ -75,6 +87,8 @@ Textbook: N/A
 Review: Great CS professor. Attend the lectures if you're new to CS--they're helpful! Otherwise, just doing some of the practice problems will help you prepare for the exams. Attend the last lecture before each exam--he tells you what specific topics are going to be tested. Put the effort into it, and the class will be easy. Don't underestimate it though!
 Tags: Caring, Respected, Accessible outside class
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 4.0/5.0
 Course: CSCI111
@@ -86,6 +100,8 @@ Grade: Not specified
 Textbook: Yes
 Review: There is a good curve. Attendance doesn't matter. Just practice the practice problems.
 Tags: Clear grading criteria, Respected
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
@@ -99,6 +115,8 @@ Textbook: N/A
 Review: The professor is excellent and explains the lectures very clearly. If you pay close attention during the lab, you can easily skip this class.
 Tags: Not specified
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI331
@@ -111,6 +129,8 @@ Textbook: N/A
 Review: the goat, what else can i say?
 Tags: Inspirational, Hilarious, Caring
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: CSCI348
@@ -122,3 +142,5 @@ Grade: A
 Textbook: N/A
 Review: This professor checks all the boxes of being kind, respectful, a great teacher, and a fair grader. in most courses at this school, a professor will lack in at least one area, but Professor Akinlar does not.
 Tags: Inspirational, Caring, Respected
+
+---

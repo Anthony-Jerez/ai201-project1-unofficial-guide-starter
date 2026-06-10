@@ -3,6 +3,8 @@ Would take again: 50%
 Level of Difficulty: 3.6/5.0
 Overall Rating: 2.8/5.0
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 4.0/5.0
 Course: CS331
@@ -14,6 +16,8 @@ Grade: B
 Textbook: Yes
 Review: She's a decent teacher. The amount of concepts and definitions she can write off the top of her head tells you she knows the material very well. Intensive notes on complex topics which she whizzes by in class. The grading curve seriously helps. You can pass by just taking 1 or 2 out of 3 exams.
 Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
@@ -27,6 +31,8 @@ Textbook: Yes
 Review: Running through the coursebook with study groups will help you pass the class with the minimum grade, but going to class would help you maximize this result! :)
 Tags: Tough grader, Get ready to read, Clear grading criteria
 
+---
+
 Quality: 3.0/5.0
 Difficulty: 3.0/5.0
 Course: CS320
@@ -38,6 +44,8 @@ Grade: C
 Textbook: Yes
 Review: Take her instead of Boklan. She seems intimidating but is funny and nice. Easier and better curve. She is trying to help students and not hurt their grades. Her exams are structured like her problem book and she gives extra questions on tests, for a better chance at passing.
 Tags: Gives good feedback, Hilarious, Graded by few things
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
@@ -51,6 +59,8 @@ Textbook: Yes
 Review: She has a good curve for tests. As long as you practice questions from her problem book and learn on ur own or by going to her lectures, you will be good. Her problem book serves as an example of how her exams look like. She even puts extra questions on exam for a better chance at passing. Waaaay better than Boklan, for passing the course.
 Tags: EXTRA CREDIT, Hilarious
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
 Course: CS320
@@ -62,6 +72,8 @@ Grade: Rather not say
 Textbook: Yes
 Review: Practice a lots of questions!! go thru review videos on QC Learning YT. Going to lectures doesnt help much!!! you will get tons of extra credit questions but less time during exams. Overall, she's a fun professor!
 Tags: EXTRA CREDIT, So many papers, Respected
+
+---
 
 Quality: 4.0/5.0
 Difficulty: 3.0/5.0
@@ -75,6 +87,8 @@ Textbook: N/A
 Review: She is nice. She is caring and is considerate of students. Go to class, participate, and you will learn a lot. Just relying upon previous professors' reviews is not enough. Review materials can be enough to pass, but for A, you have to work for it. Best of 2 exams. She gives a lot of extra credits, seriously, a lot. Go to class, and you will learn.
 Tags: Gives good feedback, Caring, Test heavy
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 4.0/5.0
 Course: CS320
@@ -86,6 +100,8 @@ Grade: A-
 Textbook: N/A
 Review: Super passable class. If you don't pay attention, you'll likely struggle a lot. She will call your answers garbage if they're wrong, but if you have a brain, you'll realize that she cares a lot about her students. Curve is amazing. Undisputed GOAT.
 Tags: Tough grader, Caring, Lecture heavy
+
+---
 
 Quality: 2.0/5.0
 Difficulty: 5.0/5.0
@@ -99,6 +115,8 @@ Textbook: N/A
 Review: If you do well on midterm 1 and midterm 2 , you dont need to take the final. I wind up taking final which you need at least a 60 to be consider passing her class. I took her during the summer. Exam 1 is regular expression, godel numbers, dfa, ndfa, telescoping and cfg Exam 2 is Pump Lemma, Turing Machine and exam 1 stuff Final is exam 1&2.
 Tags: Lots of homework, Lecture heavy, Graded by few things
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 3.0/5.0
 Course: CS320
@@ -111,6 +129,8 @@ Textbook: Not specified
 Review: 320 can be difficult but with her curve (taking the higher 2 out of the 3 exams & only 40 pts is a C) she is VERY passable. So many resources out there as others have said, legit do the problem book and ur good! Is very tough-love, always says “she'll beat you up if your answer is garbage”, but means well & is entertaining! Truly the canon choice.
 Tags: Clear grading criteria, Respected
 
+---
+
 Quality: 1.0/5.0
 Difficulty: 5.0/5.0
 Course: CS320
@@ -122,3 +142,5 @@ Grade: Not sure yet
 Textbook: Yes
 Review: “beat yourself up” and various other possibly obrenic trademarked phrases seem to be the key takeaway of this course astaghfirullah
 Tags: Tough grader, Lecture heavy, Test heavy
+
+---

@@ -3,6 +3,8 @@ Would take again: 46%
 Level of Difficulty: 4.0/5.0
 Overall Rating: 2.5/5.0
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 3.0/5.0
 Course: CSCI363
@@ -14,6 +16,8 @@ Grade: A
 Textbook: Yes
 Review: AI is an interesting but difficult topic, expect linear algebra and algorithms in the second half of the course. Explains things straight from the slides, he'll answer questions and has open office hours, sometimes he isn't the clearest but was overall helpful! Grades projects heavier than exams + curve so even if you don't score well you're ok!
 Tags: Participation matters, Clear grading criteria
+
+---
 
 Quality: 2.0/5.0
 Difficulty: 4.0/5.0
@@ -27,6 +31,8 @@ Textbook: Yes
 Review: He's a nice person but a terrible teacher 😭 If you can avoid him I would. He's not notoriously bad but he doesn't know how to teach, and his assignments are difficult only because he wont go over examples in class. He is available in office hours, but it hasn't helped for my classmates. Avoid if you can, but if he's the only choice you'll be ok😞
 Tags: Tough grader, Lots of homework, Accessible outside class
 
+---
+
 Quality: 1.0/5.0
 Difficulty: 5.0/5.0
 Course: CS220
@@ -38,6 +44,8 @@ Grade: Not specified
 Textbook: Yes
 Review: Extremely arrogant and difficult to work with. Please do not take this
 Tags: Tough grader, Clear grading criteria
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
@@ -51,6 +59,8 @@ Textbook: Yes
 Review: Professor Gryak is a knowledgeable and prepared professor. The lectures, projects and readings left me with a good understanding of AI. Above all his lectures are meant to be a dialogue and if you actively engage his courses will be some of the best you can take at QC CS.
 Tags: Participation matters, Amazing lectures
 
+---
+
 Quality: 1.0/5.0
 Difficulty: 5.0/5.0
 Course: CSCI363
@@ -62,6 +72,8 @@ Grade: Rather not say
 Textbook: Yes
 Review: Worst professor I ever took. He doesn't like when people tell him what he can do better and is very rude. People like him should not be professors.
 Tags: Tough grader
+
+---
 
 Quality: 1.0/5.0
 Difficulty: 2.0/5.0
@@ -75,6 +87,8 @@ Textbook: Not specified
 Review: The other reviews are getting deleted. He does not teach well and reads off slides so trying to stay awake is nearly impossible.
 Tags: Tough grader, Lecture heavy
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 3.0/5.0
 Course: CSCI363
@@ -86,6 +100,8 @@ Grade: C
 Textbook: N/A
 Review: This was his AI class. It was one of the most challenging classes I've taken if not the most challenging. It takes a lot of work and dedication. Do not take if you have a heavy course load. Prof. Gryak can be strict at times but he is very fair. He did take into consideration class participation, effort, and progress. The curve saved many.
 Tags: Tough grader, Participation matters, Accessible outside class
+
+---
 
 Quality: 3.0/5.0
 Difficulty: 4.0/5.0
@@ -99,6 +115,8 @@ Textbook: Yes
 Review: The other reviews here are very negative, but I think it's a little unfair. Prof Gryak started off reading slides he didn't make that were incredibly wordy and dififcult to understand, but as the semster went on, he got better at explaining and using his own slides. He should refine his teaching strategies. Started off rough, got better by the end.
 Tags: Tough grader, Lecture heavy, Test heavy
 
+---
+
 Quality: 1.0/5.0
 Difficulty: 5.0/5.0
 Course: CS220
@@ -111,6 +129,8 @@ Textbook: Yes
 Review: gryak seems to think that 220 is an graduate level course. take this class if you're taking at most 2 other classes. if not, avoid. you will have to work your butt off and wont have time for anything else.
 Tags: Tough grader, Clear grading criteria, Graded by few things
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 5.0/5.0
 Course: CS220
@@ -122,3 +142,5 @@ Grade: A+
 Textbook: Yes
 Review: The semester definitely started out rough since it was his first semester teaching this class, but as the semester went on, he did a much better job teaching and explaining. The exams are definitely tough, but doable if you study. There was a huge curve in the end. If you're a hard worker and will study a lot and teach yourselves things, take Gryak
 Tags: Graded by few things, Accessible outside class
+
+---

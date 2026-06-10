@@ -3,6 +3,8 @@ Would take again: 76%
 Level of Difficulty: 2.5/5.0
 Overall Rating: 3.9/5.0
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 1.0/5.0
 Course: CSCI220
@@ -14,6 +16,8 @@ Grade: A+
 Textbook: N/A
 Review: Pretty decent professor. She teaches good, not many students listen. The exams are quite similar to the questions she goes over. If you want to learn, actually do the homework and participate in class. This class can either be your easy pass, or an enlightening time of learning the math behind cs. Very sweet lady, chat with her and be nice to her!
 Tags: Clear grading criteria, Lots of homework, Graded by few things
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
@@ -27,6 +31,8 @@ Textbook: N/A
 Review: Majority of grade comes from tests which is easy if you just understand the concepts from the review sheet. For me it was 40% midterm, 40% final and 10% hw. Teaching is alright she basically lives off the review sheet and slide. You don't learn much, but you will get an A if you try.
 Tags: Inspirational, Caring, Test heavy
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI220
@@ -38,6 +44,8 @@ Grade: A
 Textbook: Yes
 Review: Professor Kahrobaei is a great professors here at QC. She definitely wants you to succeed in her class and gives you the building blocks to get good grades on her homework's and exams. I highly recommend her for anyone looking for an effective teaching style and supportive professor.
 Tags: Clear grading criteria, Gives good feedback, Respected
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 1.0/5.0
@@ -51,6 +59,8 @@ Textbook: N/A
 Review: GOAT and inspiring
 Tags: Group projects, Inspirational, Lecture heavy
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 5.0/5.0
 Course: csci381
@@ -62,6 +72,8 @@ Grade: B
 Textbook: N/A
 Review: Took her for PQC and just had to come here to pay my respects, her lectures are precious and she grades you very fairly, thank you for everything Prof!
 Tags: Participation matters, Amazing lectures, Caring
+
+---
 
 Quality: 1.0/5.0
 Difficulty: 3.0/5.0
@@ -75,6 +87,8 @@ Textbook: N/A
 Review: Honestly she does too much when it comes to attendance. She forced attendance in her class now. She'll only excuse you if you have a doctor's note. Why can't we be sick without one and recover at home. She's so strict with everything and not very approachable in class. She has her favorites in class.
 Tags: Tough grader, Group projects, Lecture heavy
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI220
@@ -86,6 +100,8 @@ Grade: A+
 Textbook: N/A
 Review: Grade structure is 50% midterm, 50% final. If you want an easy A, take this class with this professor. It's hard to fail when she gives you all the resources to pass the class, extra credit homework and review sheets that are extremely helpful for the exams. A lot of self studying is needed outside of this class to understand everything. Take her
 Tags: Lecture heavy, Test heavy
+
+---
 
 Quality: 3.0/5.0
 Difficulty: 1.0/5.0
@@ -99,6 +115,8 @@ Textbook: N/A
 Review: Got my A+. Would repeat for another A+
 Tags: Caring, Graded by few things, Online Savvy
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI323
@@ -111,6 +129,8 @@ Textbook: Yes
 Review: Dr, Kahrobaei is a caring professor, she genuinely wants students to learn and understand the stress and struggle of a CUNY student. She wants all of us to succeed.
 Tags: EXTRA CREDIT, Clear grading criteria, Caring
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: CSCI220
@@ -122,3 +142,5 @@ Grade: A-
 Textbook: Yes
 Review: One of the best professors in Queens college.
 Tags: Participation matters
+
+---

@@ -3,6 +3,8 @@ Would take again: 92%
 Level of Difficulty: 2.5/5.0
 Overall Rating: 4.5/5.0
 
+---
+
 Quality: 3.0/5.0
 Difficulty: 4.0/5.0
 Course: CS212
@@ -14,6 +16,8 @@ Grade: B+
 Textbook: N/A
 Review: Decent professor. Maybe attended 8 lectures, I deserved what I got. His exams contain lots of syntax. Quite hard to work with 1 on 1. Lectures were heavy and honestly a drag, but informative. Practice coding outside of the class and you'll get a great grade. Don't skip lab, it makes a pretty decent part of your grade. Not hard to pass at all.
 Tags: Tough grader, Lecture heavy, Graded by few things
+
+---
 
 Quality: 4.0/5.0
 Difficulty: 1.0/5.0
@@ -27,6 +31,8 @@ Textbook: N/A
 Review: Rated a 4 bc lectures are clear, lots of examples--BUT the info is a lot! A recurring pattern of putting in topics in the exams that are kind of glossed over/not prioritized in lab. Curves generously. Doesn't give much info abt the exams' contents, but there are practice problems.
 Tags: Caring, Lecture heavy
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 4.0/5.0
 Course: CS313
@@ -38,6 +44,8 @@ Grade: C
 Textbook: N/A
 Review: Try not to take the early morning sections if you aren't a morning person! Nonetheless, this is the ideal course to learn and apply the knowledge of data structures! You'll need to regularly dedicate much practice for each concept as you'll never know when a quiz is looming around! The curveballs in exams truly test your problem solving and wit!
 Tags: Tough grader, Inspirational, Beware of pop quizzes
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 2.0/5.0
@@ -51,6 +59,8 @@ Textbook: Yes
 Review: Professor Ryba is one of the best in Queens College, and the opportunity to start your knowledge here was an absolute pleasure! His lectures serve to introduce the overall concepts within Computer Science with C++ under the scope of iostream and the C standard lib. Theory alone won't get you a grade but problem solving and practicing syntax will.
 Tags: Tough grader, Amazing lectures, Hilarious
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 4.0/5.0
 Course: CS320
@@ -62,6 +72,8 @@ Grade: A
 Textbook: Yes
 Review: Absolutely the best, super nice and down to earth guy that is very knowledgeable about what he's teaching. He really seems to care about the students. I got a pretty mediocre score on the midterm, missed the second midterm, and did very good on the final and he gave me an A. He definitely notices your improvement and rewards you for it.
 Tags: Amazing lectures, Inspirational, Test heavy
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
@@ -75,6 +87,8 @@ Textbook: Yes
 Review: Ryba's CS111 is no easy feat, but with diligent practice using his review packets and tools like unstuckstudy, you can master the basics and earn a solid grade. Lectures are informative, and the curve helps offset the challenge.
 Tags: Not specified
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: 111
@@ -86,6 +100,8 @@ Grade: Not specified
 Textbook: N/A
 Review: He's an amazing prof, he cares about his students, you can attend in person or online or even watch the lecture when you have time and review the notes and codes, he also helps his students with their grades
 Tags: Amazing lectures, Caring, Respected
+
+---
 
 Quality: 5.0/5.0
 Difficulty: 1.0/5.0
@@ -99,6 +115,8 @@ Textbook: N/A
 Review: Pretty good tbh. Attendance not needed. only need to show up to the final
 Tags: Not specified
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 2.0/5.0
 Course: CSCI111
@@ -111,6 +129,8 @@ Textbook: Not specified
 Review: Great professor, no need for attendance since all of his lectures are recorded.
 Tags: Amazing lectures, Hilarious, Respected
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: 111
@@ -122,3 +142,5 @@ Grade: A
 Textbook: N/A
 Review: First time taking C++ after being scared about it but he explains everything really well. He only has 3 tests, but will replace your score if you fail on the first 2 exams but pass the final. Tests are a LOT harder than what he goes over in class. Curve carries your grade. I got a 19/30 (63.33%) on the final, yet I passed the class with an A.
 Tags: Amazing lectures, Clear grading criteria, Graded by few things
+
+---

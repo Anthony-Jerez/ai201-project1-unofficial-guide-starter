@@ -3,6 +3,8 @@ Would take again: 55%
 Level of Difficulty: 2.9/5.0
 Overall Rating: 3.3/5.0
 
+---
+
 Quality: 2.0/5.0
 Difficulty: 3.0/5.0
 Course: CSC212
@@ -14,6 +16,8 @@ Grade: B+
 Textbook: N/A
 Review: He has no interest at all in teaching.
 Tags: Tough grader
+
+---
 
 Quality: 2.0/5.0
 Difficulty: 3.0/5.0
@@ -27,6 +31,8 @@ Textbook: N/A
 Review: The professor reads directly from the slides. He can get annoyed when students ask reasonable questions. Exams are predictable; the past exams almost guarantee a pass, but if you are going into swe you should pick a different prof that will properly teach OOP and Java, this is the foundation of CS313(DSA).
 Tags: Not specified
 
+---
+
 Quality: 5.0/5.0
 Difficulty: 3.0/5.0
 Course: CS212
@@ -38,6 +44,8 @@ Grade: B+
 Textbook: N/A
 Review: Best option for 212. Easy exams if you do the review he posts up. Easy final. Projects are alright, just don't fall behind on the concepts. He is a professor who gets the job done. You have to be super slow to get below a B in this class. Just study and keep up with the concepts - like maybe 2/3 hours a week of studying, you'll get an A.
 Tags: Clear grading criteria, Lecture heavy, Test heavy
+
+---
 
 Quality: 3.0/5.0
 Difficulty: 3.0/5.0
@@ -51,6 +59,8 @@ Textbook: N/A
 Review: Alright, my man right here will answer any question in lectures but is sooo boring and makes you feel like you shouldn't even ask questions in the first place, thats how uninterested this guy is in the class. Other than that he straight ig, not really a mean guy. Let's say out of 150 seats only 40 seats were filled each class since most didn't show
 Tags: Not specified
 
+---
+
 Quality: 3.0/5.0
 Difficulty: 3.0/5.0
 Course: CS212
@@ -62,6 +72,8 @@ Grade: B+
 Textbook: N/A
 Review: The lectures can be dry, but the content and exams are manageable. Take advantage of the lab TAs - they're really helpful for the projects. unstuck ai was a great study tool too. Overall, it's a solid class if you stay engaged.
 Tags: Not specified
+
+---
 
 Quality: 3.0/5.0
 Difficulty: 4.0/5.0
@@ -75,6 +87,8 @@ Textbook: N/A
 Review: Good lecturer, just a little dry. But the best thing to do when coming into this class is to look over all the class notes, and the lectures and making sure you understand them thoroughly. I also recommend reviewing the exact algorithm in the notes that is tasked in the projects, as those will be helpful.
 Tags: Tough grader, Lots of homework
 
+---
+
 Quality: 2.0/5.0
 Difficulty: 3.0/5.0
 Course: CS212
@@ -85,6 +99,8 @@ Grade: C
 Textbook: N/A
 Review: Imma be so honest here when it comes to his lectures, he literally reads off the slides so BE prepared to do a lot of self-studying on your own. I personally feel like I didn't learn much in this class. I would also note that he is project heavy, with a total of 5 to do over the semester. Good luck!
 Tags: Clear grading criteria, Lecture heavy
+
+---
 
 Quality: 1.0/5.0
 Difficulty: 4.0/5.0
@@ -97,6 +113,8 @@ Textbook: N/A
 Review: Professor Lord is a terrible professor who seems more interested in clocking in and out than actually teaching. He shows no concern for his students, often ignoring their questions or dismissing their concerns. he also has a rude attitude. It's clear he doesn't prioritize his role as an educator. kinda shows how low funded the CS dept is.
 Tags: Tough grader
 
+---
+
 Quality: 4.0/5.0
 Difficulty: 2.0/5.0
 Course: CS212
@@ -107,6 +125,8 @@ Grade: A
 Textbook: N/A
 Review: In my opinion, he actually teaches well and his lectures are helpful for the projects. Class is consist of 2 midterms, 5 projects and 1 final. The final is consist of 40 MC questions. Overall there is nothing much to say about this class since its almost similar to CS111 but Java and Object Oriented Programming. Overall, the class is very easy.
 Tags: Lots of homework, Lecture heavy
+
+---
 
 Quality: 3.0/5.0
 Difficulty: 4.0/5.0
@@ -119,3 +139,5 @@ Grade: D
 Textbook: N/A
 Review: Professor Kenneth Lord is a great person. In CSCI 212 class, lecture slides are old style and he change the question in each exams every year and make it little hard and he change the projects every year and make a hard as well and in final exam I get 40 MCQ Questions and in final exam he change few questions.
 Tags: Tough grader, Lecture heavy, Test heavy
+
+---
