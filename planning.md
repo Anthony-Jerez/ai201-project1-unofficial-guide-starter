@@ -123,7 +123,7 @@ graph TD
     classDef tech fill:#e7cfcd,stroke:#333,stroke-width:1px,color:#000;
 
     subgraph Phase 1: Ingestion & Storage [Data Ingestion Pipeline]
-        A[Raw Text Files<br>10 RMP Profiles] --> B(1. Document Ingestion & Preprocessing<br>Python / OS Library)
+        A[Raw Text Files<br>10 RMP Profiles] --> B(1. Document Ingestion & Preprocessing<br>Python)
         B --> C(2. Chunking<br>Custom Delimiter Splitter)
         C --> D(3. Embedding & Vector Store<br>all-MiniLM-L6-v2 & ChromaDB)
     end
