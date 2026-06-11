@@ -154,6 +154,54 @@ graph TD
 
 **Milestone 3 — Ingestion and chunking:**
 
+AI Tool: Claude 4.6 Sonnet
+
+Input Context Provided:
+
+- Sample RateMyProfessor Text Documents
+- Chunking strategy section
+- Architecture diagram
+
+Expected Output: 
+
+A Python preprocessing script (```ingest.py```) that parses all 10 text files. It must isolate the professor's name and global historical statistics from the file header, split the rest of the text into blocks using the ```---``` markdown delimiter, and return a clean array of chunk payloads with the header prepended to each review.
+
+Verification Method: 
+
+I will write a simple test script to print chunks[0] and chunks[1] of a parsed file. I will manually verify that:
+- The text explicitly starts with the matching professor's name and global stats
+- The chunk contains exactly one student's complete review without being cut off
+- The length of the array matches the exact count of ```---``` delimiters present in the source file
+
 **Milestone 4 — Embedding and retrieval:**
 
+AI Tool: Claude 4.6 Sonnet
+
+Input Context Provided: 
+- Retrieval Approach section
+- the Architecture Diagram
+- chunking output structure from Milestone 3
+
+Expected Output: 
+
+A Python script (`vector_store.py`) that sets up a local, persistent ChromaDB client using `all-MiniLM-L6-v2` via `sentence-transformers`. It will handle batch-inserting our chunked reviews and produce a query function that returns the `top_k=5` matches.
+
+Verification Method:
+
+I will execute the query function using Question 1 and Question 4 from my Evaluation Plan. I will verify that exactly 5 matches are returned and that the text contents of the highest-ranked results mirror the source documents of Jerry Waxman and Cuneyt Akinlar respectively.  
+
 **Milestone 5 — Generation and interface:**
+
+AI Tool: Claude 4.6 Sonnet
+
+Input Context Provided: 
+- Completed planning.md (specifically the Evaluation Plan and Architecture Diagram) 
+- Completed vector_store.py script
+
+Expected Output: 
+
+A chat application script (app.py) that establishes a connection to the Groq API utilizing the llama-3.3-70b-versatile model. The script must take a user's prompt, pull the 5 relevant chunks from ChromaDB, inject them into a system prompt ("Answer the question using only the following context..."), and print the response.
+
+Verification Method: 
+
+I will run all 5 questions from my Evaluation Plan through the completed chatbot interface. I will verify success by cross-checking the chatbot's terminal output against the explicit "Expected Answer" column in my evaluation plan to ensure all factual points are present with zero hallucinations.
