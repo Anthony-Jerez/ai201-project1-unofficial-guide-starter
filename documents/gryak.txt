@@ -1,7 +1,7 @@
 Professor Name: Johnathan Gryak
-Would take again: 46%
-Level of Difficulty: 4.0/5.0
-Overall Rating: 2.5/5.0
+Avg Would take again: 46%
+Avg Level of Difficulty: 4.0/5.0
+Avg Overall Rating: 2.5/5.0
 
 ---
 

@@ -1,7 +1,7 @@
 Professor Name: Cuneyt Akinlar
-Would take again: 98%
-Level of Difficulty: 2.9/5.0
-Overall Rating: 4.9/5.0
+Avg Would take again: 98%
+Avg Level of Difficulty: 2.9/5.0
+Avg Overall Rating: 4.9/5.0
 
 ---
 

@@ -1,7 +1,7 @@
 Professor Name: Bojana Obrenic
-Would take again: 50%
-Level of Difficulty: 3.6/5.0
-Overall Rating: 2.8/5.0
+Avg Would take again: 50%
+Avg Level of Difficulty: 3.6/5.0
+Avg Overall Rating: 2.8/5.0
 
 ---
 

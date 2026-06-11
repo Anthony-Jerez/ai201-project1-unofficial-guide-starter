@@ -1,7 +1,7 @@
 Professor Name: Alex Ryba
-Would take again: 92%
-Level of Difficulty: 2.5/5.0
-Overall Rating: 4.5/5.0
+Avg Would take again: 92%
+Avg Level of Difficulty: 2.5/5.0
+Avg Overall Rating: 4.5/5.0
 
 ---
 

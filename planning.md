@@ -42,11 +42,15 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** Document-Structure-Based Chunks (variable size).
 
-**Overlap:**
+**Overlap:** No overlap.
 
-**Reasoning:**
+**Reasoning:** 
+
+Traditional fixed-size chunking techniques fail on this dataset because the text is not continuous. The data is highly structured and each student review is delimited by a `---` delimiter. Using arbitrary character limits could possibly split up a single review, seperating critical metadata such as ```Course``` or ```Review```. Also, we use no overlap because with overlap, it's possible that certain reviews can be mixed up where the end of one review is grabbed along with the start of another review.
+
+Thus, it's best to use a document-structure-based chunking strategy, parsing each source document by the ```---``` delimiter so that one review equals one chunk. To ensure, no essential context is lost during the retrieval step, a preprocessing step is needed to extract the ```Professor Name``` along with global averages (`Avg Would take again`, `Avg Level of Difficulty`, and `Avg Overall Rating`) from the top of each source document and prepend it to the text payload of each chunk. 
 
 ---
 
@@ -58,11 +62,16 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 model
 
-**Top-k:**
+**Top-k:** 5
+
+Reasoning: If we specify the k value to be too low, we risk capturing a highly biased perspective. For example, if k was set to 1 and if we extracted one review from a student who failed the class and left very negative feedback, it's possible that the other reviews for that professor were positive, thus painting a inaccurate picture. In the case where we specify k to be a large value (e.g. k = 15), since each document source contains the 10 latest reviews for a certain professor, retrieving a large value of chunks that exceeds 10 would result in extracting data for different professors just to fill the quota. This will cause the LLM to hallucinate and cross-contaminate feedback between different professors.
 
 **Production tradeoff reflection:**
+
+While upgrading to a larger commerical embedding model (e.g. OpenAI's text-embedding-3-large model) would provide higher-dimensional vectors and thus capture more naunced sementic representations which would improve retrieval accuracy, this will also introduce network latency and token usage costs due to it requiring a external API call to access the model. The current embedding model runs locally, keeping retrieval latency near zero. Additionally, as mentioned before, each source document contains the latest 10 English reviews for a certain professor, thus a larger context window and multilingual support would be unecessary at this point.
+
 
 ---
 
@@ -75,11 +84,11 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Does Professor Jerry Waxman allow students to use electronics like phones or computers during his lectures?| No. Multiple student reviews note that no technology or electronics are allowed in his class. If a phone is used, he will stop the lecture to address it.|
+| 2 | What specific topics are covered on the exams for Bojana Obrenic's CSCI 320 course?| Exam 1 covers regular expressions, Godel numbers, DFA, NDFA, telescoping, and CFG. Exam 2 covers the Pumping Lemma, Turing Machines, and a cumulative review of Exam 1 material. The final exam is cumulative of both Exam 1 and Exam 2.|
+| 3 | How is the grade broken down in Delaram Kahrobaei's CSCI 220 class offerred in the Spring semester?| The majority of the grade is heavily exam-based, structured as 40% for the midterm exam, 40% for the final exam, and 10% for homework assignments. (Note: Another review from December 2025 mentions a structure of 50% midterm and 50% final).|
+| 4 | What advice do students give to prepare for exams in Cuneyt Akinlar's introductory CSCI 111 course?| Students recommend attending his lectures if you are a newbie, completing the provided practice problems weeks in advance, and specifically attending the very last lecture before an exam because he reveals the exact topics that will be tested.|
+| 5 | What is a common student complaint regarding the formatting and presentation of Gaurish Telang's lecture slides?| Students complain that his lecture slides can be extremely disorganized and unclear, noting that he jams an impossible amount of information into a single slide.|
 
 ---
 
@@ -89,9 +98,13 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Inconsistent Naming Conventions and Course Acronyms (Noisy data)
 
-2.
+Reasoning: In the raw documnents, students refer to the exact same courses using different naming conventions. For example, the OOP course is written as CS212, CSC212, CSCI212, and 212. Because semantic search models rely on vector similarities, a query explicitly searching for CSCI212 might fail to retrieve a highly relevant review that's simply labeled as 212. 
+
+2. Diverse topics noise and diluted embeddings
+
+Reasoning: It's possible that a individual review covers  multiple completely unrelated topics in a short text span. For example, a single student review for Kenneth Lord simultaneously discusses dry lecturing styles, annoyed professors, predictable exams, and general career advice for entering software engineering. When this chunk is passed into the all-MiniLM-L6-v2 embedding model, the single vector representation becomes diluted across all 4 topics making it harderfor the system to distinguish between relevant and irrelevant information.
 
 ---
 
@@ -102,7 +115,29 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
 
+graph TD
+    %% Define Styles
+    classDef stage fill:#1f77b4,stroke:#333,stroke-width:2px,color:#fff;
+    classDef tech fill:#e7cfcd,stroke:#333,stroke-width:1px,color:#000;
+
+    subgraph Phase 1: Ingestion & Storage [Data Ingestion Pipeline]
+        A[Raw Text Files<br>10 RMP Profiles] --> B(1. Document Ingestion<br>Python / OS Library)
+        B --> C(2. Chunking<br>Custom Delimiter Splitter)
+        C --> D(3. Embedding + Vector Store<br>sentence-transformers & ChromaDB)
+    end
+
+    subgraph Phase 2: Runtime RAG Chatbot [Inference Pipeline]
+        E[User Query<br>Student Question] --> F(4. Retrieval<br>ChromaDB Semantic Search)
+        D -. Vector Match .-> F
+        F --> G(5. Generation<br>Groq / Llama 3.3 70B)
+        G --> H[Chatbot Response<br>Contextual Answer]
+    end
+
+    %% Apply Styles
+    class B,C,D,F,G stage;
+```
 ---
 
 ## AI Tool Plan

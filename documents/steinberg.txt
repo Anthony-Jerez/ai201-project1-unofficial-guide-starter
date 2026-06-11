@@ -1,7 +1,7 @@
 Professor Name: Oren Steinberg
-Would take again: 53%
-Level of Difficulty: 3.7/5.0
-Overall Rating: 3.3/5.0
+Avg Would take again: 53%
+Avg Level of Difficulty: 3.7/5.0
+Avg Overall Rating: 3.3/5.0
 
 ---
 
