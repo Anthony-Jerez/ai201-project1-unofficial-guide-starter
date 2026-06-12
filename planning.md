@@ -50,7 +50,7 @@ The Unofficial Guide centralizes raw student feedback, experiences, and workload
 
 Traditional fixed-size chunking techniques fail on this dataset because the text is not continuous. The data is highly structured and each student review is delimited by a `---` delimiter. Using arbitrary character limits could possibly split up a single review, seperating critical metadata such as ```Course``` or ```Review```. Also, we use no overlap because with overlap, it's possible that certain reviews can be mixed up where the end of one review is grabbed along with the start of another review.
 
-Thus, it's best to use a document-structure-based chunking strategy, parsing each source document by the ```---``` delimiter so that one review equals one chunk. To ensure, no essential context is lost during the retrieval step, a preprocessing step is needed to extract the ```Professor Name``` along with global averages (`Avg Would take again`, `Avg Level of Difficulty`, and `Avg Overall Rating`) from the top of each source document and prepend it to the text payload of each chunk. 
+Thus, it's best to use a document-structure-based chunking strategy, parsing each source document by the ```---``` delimiter so that one review equals one chunk. To ensure, no essential context is lost during the retrieval step, a preprocessing step is needed to extract the ```Professor Name``` along with global statistics from the top of each source document and prepend it to the text payload of each chunk. 
 
 ---
 
